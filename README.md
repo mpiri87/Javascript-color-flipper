@@ -1,1 +1,1 @@
-# Jaavascript-color-flipper
+# Javascript-color-flipper
